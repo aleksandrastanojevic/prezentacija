@@ -1,4 +1,11 @@
 body {
-background: grey;
-color: white;
-}
+
+    background-color: rgb(78, 76, 73);
+    color: #ffffff;
+
+    font-family: 'Oxygen', sans-serif;    
+    }
+
+    h2 {
+        font-size: 3em;
+    }
